@@ -1,27 +1,16 @@
 
-commit 3b337377a13fa59ff9710665b90ef784188a004f (HEAD -> main, testing)
-Author: <ramirezmelody719@gmail.com>
-Date: Sat Nov 6 16:37:02 2021 -0400
-First commit
-(END)
+commit 13534d407e3452a24e0b7b18f27edd32dac660a8 (HEAD -> main, origin/main)
+Author: A19B82289 educacion <A19B82289@educacion.edu.do>
+Date:   Tue Dec 7 15:28:14 2021 -0500
 
-commit 77cebe6b6bd15294e0fe47467b2a5bcb4ba56517 (HEAD -> main)
-Author: difo23 <ramirezmelody719@gmail.com>
-Date: Sun Nov 7 14:51:15 2021 -0400
-Segundo commit de pruebas
-commit 3b337377a13fa59ff9710665b90ef784188a004f (testing)
-Author:  <ramirezmelody719@gmail.com>
-Date: Sat Nov 6 16:37:02 2021 -0400
-First commit
-(END)
+    Tercer
 
-commit 3b337377a13fa59ff9710665b90ef784188a004f (HEAD -> testing)
-Author:  <ramirezmelody719@gmail.com>
-Date: Sat Nov 6 16:37:02 2021 -0400
-First commit
+commit f78e6ea21db126d07e67e631ca3222e67538ab62
+Author: A19B82289 educacion <A19B82289@educacion.edu.do>
+Date:   Tue Dec 7 15:18:32 2021 -0500
 
-* 27b236b (testing) primer testing commit
-| * 77cebe6 (HEAD -> main) Segundo commit de pruebas
-|/
-* 3b33737 First commit
+    segundo
 
+* 13534d4 (HEAD -> main, origin/main) Tercer
+* f78e6ea segundo
+* cfc9c79 first commit
