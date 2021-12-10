@@ -1,11 +1,11 @@
-1  gh
-    2  gh auth login--web
-    3  git init
-    4  git status
-    5  git add .
-    6  git commit -am "grid garden"
-    7  clear
-    8  history
+  gh
+  gh auth login--web
+  git init
+  git status
+  git add .
+  git commit -am "grid garden"
+  clear
+  history
 
 commit 13534d407e3452a24e0b7b18f27edd32dac660a8 (HEAD -> main, origin/main)
 Author: A19B82289 educacion <A19B82289@educacion.edu.do>
