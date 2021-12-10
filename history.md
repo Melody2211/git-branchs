@@ -1,10 +1,17 @@
   gh
+  
   gh auth login--web
+  
   git init
+  
   git status
+  
   git add .
-  git commit -am "grid garden"
+  
+  git commit -am "git brachs"
+  
   clear
+  
   history
 
 commit 13534d407e3452a24e0b7b18f27edd32dac660a8 (HEAD -> main, origin/main)
